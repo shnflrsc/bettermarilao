@@ -1,45 +1,45 @@
 {
   "lgu": {
-    "name": "Los Baños",
-    "fullName": "Municipality of Los Baños",
-    "province": "Laguna",
-    "districtEngineeringOffice": "Laguna 2nd DEO",
-    "region": "Region IV-A",
-    "regionCode": "CALABARZON",
+    "name": "Marilao",
+    "fullName": "Municipality of Marilao",
+    "province": "Bulacan",
+    "districtEngineeringOffice": "Bulacan 2nd DEO",
+    "region": "Region III",
+    "regionCode": "Central Luzon",
     "type": "municipality",
     "logoPath": "/logos/png/betterlb-blue.png",
-    "officialWebsite": "https://losbanos.gov.ph",
-    "provinceWebsite": "https://laguna.gov.ph"
+    "officialWebsite": "https://marilao.gov.ph",
+    "provinceWebsite": "https://bulacan.gov.ph"
   },
   "portal": {
-    "name": "BetterLB",
-    "domain": "betterlb.org",
-    "baseUrl": "https://betterlb.org",
-    "tagline": "Community Powered Los Baños Portal",
-    "description": "Community-powered portal of the Municipality of Los Baños.",
+    "name": "BetterMarilao",
+    "domain": "bettermarilao.org",
+    "baseUrl": "https://bettermarilao.org",
+    "tagline": "Community Powered Marilao Portal",
+    "description": "Community-powered portal of the Municipality of Marilao.",
     "brandColor": "#0066eb",
     "navbarTagline": "A Community-run portal for",
-    "footerBrandName": "Better Los Baños",
+    "footerBrandName": "Better Marilao",
     "footerTagline": "Community Civic Portal",
     "logoWhitePath": "/logos/webp/betterlb-white-outline.webp"
   },
   "location": {
     "coordinates": {
-      "lat": 14.1763,
-      "lon": 121.2219
+      "lat": 14.7578,
+      "lon": 120.9472
     },
     "weather": {
-      "defaultCity": "Los Baños"
+      "defaultCity": "Marilao"
     }
   },
   "transparency": {
     "procurement": {
-      "organizationName": "MUNICIPALITY OF LOS BAÑOS, LAGUNA",
+      "organizationName": "MUNICIPALITY OF MARILAO, BULACAN",
       "externalDashboard": "https://transparency.bettergov.ph/organizations/"
     },
     "infrastructure": {
-      "searchString": "Los Baños",
-      "exactMatchTargets": ["los baños", "los banos"]
+      "searchString": "Marilao",
+      "exactMatchTargets": ["marilao"]
     }
   },
   "dataPaths": {
